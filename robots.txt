@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://studyhackspro.net/blog-studyhackspro/sitemap.xml
